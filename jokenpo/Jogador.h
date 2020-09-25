@@ -30,4 +30,13 @@ public:
             return 3; // 3=tesoura
         }
     }
+
+    void info()
+    {
+        cout << "nome: " << nome << endl;
+        cout << "vitorias: " << vitoria << endl;
+        cout << "empates: " << empate << endl;
+        cout << "derrota:" << derrota << endl;
+        cout << " " << endl;
+    }
 };
