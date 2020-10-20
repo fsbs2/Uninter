@@ -1,0 +1,30 @@
+﻿  Origem.cpp
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(30,12): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(30,12): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(30,12): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%s'
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(30,12): message : esse argumento é usado como um tamanho do buffer
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(33,12): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(33,12): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(33,12): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%s'
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(33,12): message : esse argumento é usado como um tamanho do buffer
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(42,12): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(42,12): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(42,12): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%s'
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(42,12): message : esse argumento é usado como um tamanho do buffer
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(45,12): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(45,12): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(45,12): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%s'
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(45,12): message : esse argumento é usado como um tamanho do buffer
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(54,12): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(54,12): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(54,12): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%s'
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(54,12): message : esse argumento é usado como um tamanho do buffer
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(57,12): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(57,12): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(57,12): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%s'
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(57,12): message : esse argumento é usado como um tamanho do buffer
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(70,12): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(70,12): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(70,12): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Origem.cpp(70,12): message : esse argumento é usado como um tamanho do buffer
+  Estrutura_de_dados_PO.vcxproj -> D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Debug\Estrutura_de_dados_PO.exe
