@@ -1,2 +1,0 @@
-D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Debug\Estrutura_de_dados_PO.exe
-D:\Atividades\Uninter\Prova_estruturaDeDados\Estrutura_de_dados_PO\Debug\Estrutura_de_dados_PO.pdb
