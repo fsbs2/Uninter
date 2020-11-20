@@ -1,0 +1,1 @@
+    arquivo >> nome, nomeAux;
