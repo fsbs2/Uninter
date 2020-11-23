@@ -13,10 +13,10 @@ int main()
 
     map<string, int> nomes;
 
-    for (int i = 1; i <= 10; i++)
+    for (int i = 0; i < 10; i++)
     {
         arquivo >> nome;
-        nomes.insert(pair<string, int>(nome, x));
+        nomes[nome]++;
     }
 
     map<string, int>::iterator itr;
