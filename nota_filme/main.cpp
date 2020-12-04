@@ -8,8 +8,8 @@ using namespace std;
 
 int main()
 {
-    Interface x("interface");
-    x.log();
+    Interface i;
+    i.log();
 
     return 0;
 }

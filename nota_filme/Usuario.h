@@ -1,40 +1,47 @@
 #pragma once
 #include <iostream>
-#include "Filme.h"
-#include "Interface.h"
 #include <vector>
 using namespace std;
 
 class Usuario
 {
+public:
     string login;
-    string senha;
-    Filme filme;
+    int senha;
+    int nota;
+    vector<Usuario> usuarios;
 
-    vector<Usuario *> usuarios;
-
-    Usuario(string login, string senha)
+    Usuario()
+    {
+    }
+    Usuario(string login, int senha)
         : login(login), senha(senha)
     {
     }
 
-    void criar(string login, string senha)
+    void criar(string login, int senha)
     {
-        Usuario *u = new Usuario(login, senha);
-        usuarios.push_back(u);
+        Usuario usuarioSalvo(login, senha);
+        usuarios.push_back(usuarioSalvo);
+        cout << "Usuario salvo" << endl;
     }
 
-    void logar(string login, string senha)
+    int logar(string login, int senha)
     {
-        for (Usuario *u : usuarios)
+        cout << "Login.." << endl;
+        for (int i = 0; i < usuarios.size(); i++)
         {
-            if (this->login == login && this->senha == senha)
+            if (usuarios[i].login == login && usuarios[i].senha == senha)
             {
+                cout << "Usuario logado" << endl;
+                return usuarios[i].senha;
             }
             else
             {
-                cout << "Digite um login e senha validos" << endl;
+                return -1;
             }
         }
+
+        return -1;
     }
 };
